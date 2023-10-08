@@ -8,7 +8,7 @@
     width: 200px;
     height: 280px;
     border: 15px solid #92d9cc;
-    object-position: right;
+    float: right;
 }
 .headers {
     color: #35a18e;
