@@ -1,7 +1,14 @@
 #title {
     color: #24685c;
     font-size: 48px;
+    text-align: center;
   }
+
+.images {
+    height: 140;
+    width: 100;
+    border: 50px solid #92d9cc;
+}
 .headers {
     color: #35a18e;
     font-size: 24px;
