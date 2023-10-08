@@ -5,11 +5,17 @@
   }
 
 .images {
-    width: 100px;
-    height: 140px;
-    border: 50px solid #92d9cc;
+    width: 200;
+    height: 280;
+    border: 15px solid #92d9cc;
+    align-items: center;
 }
 .headers {
     color: #35a18e;
     font-size: 24px;
     }
+
+.subtext {
+    color: #18463d;
+    font-size: 12px;
+}
