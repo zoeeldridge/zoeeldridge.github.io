@@ -19,3 +19,6 @@
     color: #18463d;
     font-size: 12px;
 }
+
+.link { color: #18463d; } /* CSS link color (red) */
+.link:hover { color: #92d9cc; } /* CSS link hover (green) */
