@@ -7,18 +7,24 @@
 .images {
     width: 200px;
     height: 280px;
+    margin-right: 50px;
     border: 15px solid #92d9cc;
     float: right;
 }
 .headers {
     color: #35a18e;
     font-size: 24px;
+    margin-left: 50px;
     }
 
 .subtext {
     color: #18463d;
     font-size: 15px;
+    margin-left: 50px;
 }
 
-.link { color: #18463d; } /* CSS link color (red) */
-.link:hover { color: #35a18e; } /* CSS link hover (green) */
+.link {
+    color: #18463d;
+    margin-left: 50px; 
+    }
+.link:hover { color: #35a18e; }
